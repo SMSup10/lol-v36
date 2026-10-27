@@ -1,0 +1,694 @@
+[
+  {
+    "en": "Aatrox",
+    "ko": "아트록스"
+  },
+  {
+    "en": "Ahri",
+    "ko": "아리"
+  },
+  {
+    "en": "Akali",
+    "ko": "아칼리"
+  },
+  {
+    "en": "Akshan",
+    "ko": "아크샨"
+  },
+  {
+    "en": "Alistar",
+    "ko": "알리스타"
+  },
+  {
+    "en": "Ambessa",
+    "ko": "암베사"
+  },
+  {
+    "en": "Amumu",
+    "ko": "아무무"
+  },
+  {
+    "en": "Anivia",
+    "ko": "애니비아"
+  },
+  {
+    "en": "Annie",
+    "ko": "애니"
+  },
+  {
+    "en": "Aphelios",
+    "ko": "아펠리오스"
+  },
+  {
+    "en": "Ashe",
+    "ko": "애쉬"
+  },
+  {
+    "en": "Aurelion Sol",
+    "ko": "아우렐리온 솔"
+  },
+  {
+    "en": "Aurora",
+    "ko": "오로라"
+  },
+  {
+    "en": "Azir",
+    "ko": "아지르"
+  },
+  {
+    "en": "Bard",
+    "ko": "바드"
+  },
+  {
+    "en": "Bel'Veth",
+    "ko": "벨베스"
+  },
+  {
+    "en": "Blitzcrank",
+    "ko": "블리츠크랭크"
+  },
+  {
+    "en": "Brand",
+    "ko": "브랜드"
+  },
+  {
+    "en": "Braum",
+    "ko": "브라움"
+  },
+  {
+    "en": "Briar",
+    "ko": "브라이어"
+  },
+  {
+    "en": "Caitlyn",
+    "ko": "케이틀린"
+  },
+  {
+    "en": "Camille",
+    "ko": "카밀"
+  },
+  {
+    "en": "Cassiopeia",
+    "ko": "카시오페아"
+  },
+  {
+    "en": "Cho'Gath",
+    "ko": "초가스"
+  },
+  {
+    "en": "Corki",
+    "ko": "코르키"
+  },
+  {
+    "en": "Darius",
+    "ko": "다리우스"
+  },
+  {
+    "en": "Diana",
+    "ko": "다이애나"
+  },
+  {
+    "en": "Dr. Mundo",
+    "ko": "문도 박사"
+  },
+  {
+    "en": "Draven",
+    "ko": "드레이븐"
+  },
+  {
+    "en": "Ekko",
+    "ko": "에코"
+  },
+  {
+    "en": "Elise",
+    "ko": "엘리스"
+  },
+  {
+    "en": "Evelynn",
+    "ko": "이블린"
+  },
+  {
+    "en": "Ezreal",
+    "ko": "이즈리얼"
+  },
+  {
+    "en": "Fiddlesticks",
+    "ko": "피들스틱"
+  },
+  {
+    "en": "Fiora",
+    "ko": "피오라"
+  },
+  {
+    "en": "Fizz",
+    "ko": "피즈"
+  },
+  {
+    "en": "Galio",
+    "ko": "갈리오"
+  },
+  {
+    "en": "Gangplank",
+    "ko": "갱플랭크"
+  },
+  {
+    "en": "Garen",
+    "ko": "가렌"
+  },
+  {
+    "en": "Gnar",
+    "ko": "나르"
+  },
+  {
+    "en": "Gragas",
+    "ko": "그라가스"
+  },
+  {
+    "en": "Graves",
+    "ko": "그레이브즈"
+  },
+  {
+    "en": "Gwen",
+    "ko": "그웬"
+  },
+  {
+    "en": "Hecarim",
+    "ko": "헤카림"
+  },
+  {
+    "en": "Heimerdinger",
+    "ko": "하이머딩거"
+  },
+  {
+    "en": "Hwei",
+    "ko": "흐웨이"
+  },
+  {
+    "en": "Illaoi",
+    "ko": "일라오이"
+  },
+  {
+    "en": "Irelia",
+    "ko": "이렐리아"
+  },
+  {
+    "en": "Ivern",
+    "ko": "아이번"
+  },
+  {
+    "en": "Janna",
+    "ko": "잔나"
+  },
+  {
+    "en": "Jarvan IV",
+    "ko": "자르반 4세"
+  },
+  {
+    "en": "Jax",
+    "ko": "잭스"
+  },
+  {
+    "en": "Jayce",
+    "ko": "제이스"
+  },
+  {
+    "en": "Jhin",
+    "ko": "진"
+  },
+  {
+    "en": "Jinx",
+    "ko": "징크스"
+  },
+  {
+    "en": "K'Sante",
+    "ko": "크산테"
+  },
+  {
+    "en": "Kai'Sa",
+    "ko": "카이사"
+  },
+  {
+    "en": "Kalista",
+    "ko": "칼리스타"
+  },
+  {
+    "en": "Karma",
+    "ko": "카르마"
+  },
+  {
+    "en": "Karthus",
+    "ko": "카서스"
+  },
+  {
+    "en": "Kassadin",
+    "ko": "카사딘"
+  },
+  {
+    "en": "Katarina",
+    "ko": "카타리나"
+  },
+  {
+    "en": "Kayle",
+    "ko": "케일"
+  },
+  {
+    "en": "Kayn",
+    "ko": "케인"
+  },
+  {
+    "en": "Kennen",
+    "ko": "케넨"
+  },
+  {
+    "en": "Kha'Zix",
+    "ko": "카직스"
+  },
+  {
+    "en": "Kindred",
+    "ko": "킨드레드"
+  },
+  {
+    "en": "Kled",
+    "ko": "클레드"
+  },
+  {
+    "en": "Kog'Maw",
+    "ko": "코그모"
+  },
+  {
+    "en": "LeBlanc",
+    "ko": "르블랑"
+  },
+  {
+    "en": "Lee Sin",
+    "ko": "리 신"
+  },
+  {
+    "en": "Leona",
+    "ko": "레오나"
+  },
+  {
+    "en": "Lillia",
+    "ko": "릴리아"
+  },
+  {
+    "en": "Lissandra",
+    "ko": "리산드라"
+  },
+  {
+    "en": "Locke",
+    "ko": "로크"
+  },
+  {
+    "en": "Lucian",
+    "ko": "루시안"
+  },
+  {
+    "en": "Lulu",
+    "ko": "룰루"
+  },
+  {
+    "en": "Lux",
+    "ko": "럭스"
+  },
+  {
+    "en": "Malphite",
+    "ko": "말파이트"
+  },
+  {
+    "en": "Malzahar",
+    "ko": "말자하"
+  },
+  {
+    "en": "Maokai",
+    "ko": "마오카이"
+  },
+  {
+    "en": "Master Yi",
+    "ko": "마스터 이"
+  },
+  {
+    "en": "Mel",
+    "ko": "멜"
+  },
+  {
+    "en": "Milio",
+    "ko": "밀리오"
+  },
+  {
+    "en": "Miss Fortune",
+    "ko": "미스 포츈"
+  },
+  {
+    "en": "Mordekaiser",
+    "ko": "모데카이저"
+  },
+  {
+    "en": "Morgana",
+    "ko": "모르가나"
+  },
+  {
+    "en": "Naafiri",
+    "ko": "나피리"
+  },
+  {
+    "en": "Nami",
+    "ko": "나미"
+  },
+  {
+    "en": "Nasus",
+    "ko": "나서스"
+  },
+  {
+    "en": "Nautilus",
+    "ko": "노틸러스"
+  },
+  {
+    "en": "Neeko",
+    "ko": "니코"
+  },
+  {
+    "en": "Nidalee",
+    "ko": "니달리"
+  },
+  {
+    "en": "Nilah",
+    "ko": "닐라"
+  },
+  {
+    "en": "Nocturne",
+    "ko": "녹턴"
+  },
+  {
+    "en": "Nunu & Willump",
+    "ko": "누누와 윌럼프"
+  },
+  {
+    "en": "Olaf",
+    "ko": "올라프"
+  },
+  {
+    "en": "Orianna",
+    "ko": "오리아나"
+  },
+  {
+    "en": "Ornn",
+    "ko": "오른"
+  },
+  {
+    "en": "Pantheon",
+    "ko": "판테온"
+  },
+  {
+    "en": "Poppy",
+    "ko": "뽀삐"
+  },
+  {
+    "en": "Pyke",
+    "ko": "파이크"
+  },
+  {
+    "en": "Qiyana",
+    "ko": "키아나"
+  },
+  {
+    "en": "Quinn",
+    "ko": "퀸"
+  },
+  {
+    "en": "Rakan",
+    "ko": "라칸"
+  },
+  {
+    "en": "Rammus",
+    "ko": "람머스"
+  },
+  {
+    "en": "Rek'Sai",
+    "ko": "렉사이"
+  },
+  {
+    "en": "Rell",
+    "ko": "렐"
+  },
+  {
+    "en": "Renata Glasc",
+    "ko": "레나타 글라스크"
+  },
+  {
+    "en": "Renekton",
+    "ko": "레넥톤"
+  },
+  {
+    "en": "Rengar",
+    "ko": "렝가"
+  },
+  {
+    "en": "Riven",
+    "ko": "리븐"
+  },
+  {
+    "en": "Rumble",
+    "ko": "럼블"
+  },
+  {
+    "en": "Ryze",
+    "ko": "라이즈"
+  },
+  {
+    "en": "Samira",
+    "ko": "사미라"
+  },
+  {
+    "en": "Sejuani",
+    "ko": "세주아니"
+  },
+  {
+    "en": "Senna",
+    "ko": "세나"
+  },
+  {
+    "en": "Seraphine",
+    "ko": "세라핀"
+  },
+  {
+    "en": "Sett",
+    "ko": "세트"
+  },
+  {
+    "en": "Shaco",
+    "ko": "샤코"
+  },
+  {
+    "en": "Shen",
+    "ko": "쉔"
+  },
+  {
+    "en": "Shyvana",
+    "ko": "쉬바나"
+  },
+  {
+    "en": "Singed",
+    "ko": "신지드"
+  },
+  {
+    "en": "Sion",
+    "ko": "사이온"
+  },
+  {
+    "en": "Sivir",
+    "ko": "시비르"
+  },
+  {
+    "en": "Skarner",
+    "ko": "스카너"
+  },
+  {
+    "en": "Smolder",
+    "ko": "스몰더"
+  },
+  {
+    "en": "Sona",
+    "ko": "소나"
+  },
+  {
+    "en": "Soraka",
+    "ko": "소라카"
+  },
+  {
+    "en": "Swain",
+    "ko": "스웨인"
+  },
+  {
+    "en": "Sylas",
+    "ko": "사일러스"
+  },
+  {
+    "en": "Syndra",
+    "ko": "신드라"
+  },
+  {
+    "en": "Tahm Kench",
+    "ko": "탐 켄치"
+  },
+  {
+    "en": "Taliyah",
+    "ko": "탈리야"
+  },
+  {
+    "en": "Talon",
+    "ko": "탈론"
+  },
+  {
+    "en": "Taric",
+    "ko": "타릭"
+  },
+  {
+    "en": "Teemo",
+    "ko": "티모"
+  },
+  {
+    "en": "Thresh",
+    "ko": "쓰레쉬"
+  },
+  {
+    "en": "Tristana",
+    "ko": "트리스타나"
+  },
+  {
+    "en": "Trundle",
+    "ko": "트런들"
+  },
+  {
+    "en": "Tryndamere",
+    "ko": "트린다미어"
+  },
+  {
+    "en": "Twisted Fate",
+    "ko": "트위스티드 페이트"
+  },
+  {
+    "en": "Twitch",
+    "ko": "트위치"
+  },
+  {
+    "en": "Udyr",
+    "ko": "우디르"
+  },
+  {
+    "en": "Urgot",
+    "ko": "우르곳"
+  },
+  {
+    "en": "Varus",
+    "ko": "바루스"
+  },
+  {
+    "en": "Vayne",
+    "ko": "베인"
+  },
+  {
+    "en": "Veigar",
+    "ko": "베이가"
+  },
+  {
+    "en": "Vel'Koz",
+    "ko": "벨코즈"
+  },
+  {
+    "en": "Vex",
+    "ko": "벡스"
+  },
+  {
+    "en": "Vi",
+    "ko": "바이"
+  },
+  {
+    "en": "Viego",
+    "ko": "비에고"
+  },
+  {
+    "en": "Viktor",
+    "ko": "빅토르"
+  },
+  {
+    "en": "Vladimir",
+    "ko": "블라디미르"
+  },
+  {
+    "en": "Volibear",
+    "ko": "볼리베어"
+  },
+  {
+    "en": "Warwick",
+    "ko": "워윅"
+  },
+  {
+    "en": "Wukong",
+    "ko": "오공"
+  },
+  {
+    "en": "Xayah",
+    "ko": "자야"
+  },
+  {
+    "en": "Xerath",
+    "ko": "제라스"
+  },
+  {
+    "en": "Xin Zhao",
+    "ko": "신 짜오"
+  },
+  {
+    "en": "Yasuo",
+    "ko": "야스오"
+  },
+  {
+    "en": "Yone",
+    "ko": "요네"
+  },
+  {
+    "en": "Yorick",
+    "ko": "요릭"
+  },
+  {
+    "en": "Yunara",
+    "ko": "유나라"
+  },
+  {
+    "en": "Yuumi",
+    "ko": "유미"
+  },
+  {
+    "en": "Zaahen",
+    "ko": "자헨"
+  },
+  {
+    "en": "Zac",
+    "ko": "자크"
+  },
+  {
+    "en": "Zed",
+    "ko": "제드"
+  },
+  {
+    "en": "Zeri",
+    "ko": "제리"
+  },
+  {
+    "en": "Ziggs",
+    "ko": "직스"
+  },
+  {
+    "en": "Zilean",
+    "ko": "질리언"
+  },
+  {
+    "en": "Zoe",
+    "ko": "조이"
+  },
+  {
+    "en": "Zyra",
+    "ko": "자이라"
+  }
+]

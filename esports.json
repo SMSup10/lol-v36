@@ -1,0 +1,322 @@
+[
+  {
+    "id": "esports-001",
+    "category": "esports",
+    "difficulty": "easy",
+    "question": "2023 월드 챔피언십 결승에서 T1이 꺾은 팀은?",
+    "options": [
+      "웨이보 게이밍",
+      "징동 게이밍",
+      "빌리빌리 게이밍",
+      "젠지"
+    ],
+    "answer": "웨이보 게이밍",
+    "explanation": "2023 결승에서 T1은 웨이보 게이밍을 3:0으로 이겼어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-002",
+    "category": "esports",
+    "difficulty": "easy",
+    "question": "2022 월드 챔피언십 우승 팀은?",
+    "options": [
+      "DRX",
+      "T1",
+      "젠지",
+      "담원 기아"
+    ],
+    "answer": "DRX",
+    "explanation": "DRX가 2022 월드 챔피언십 우승을 차지했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-003",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2020 월드 챔피언십 우승 팀은?",
+    "options": [
+      "담원 게이밍",
+      "쑤닝",
+      "G2 e스포츠",
+      "T1"
+    ],
+    "answer": "담원 게이밍",
+    "explanation": "담원 게이밍이 2020 월즈에서 우승했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-004",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2018 월드 챔피언십 우승 팀은?",
+    "options": [
+      "인빅터스 게이밍",
+      "프나틱",
+      "KT 롤스터",
+      "RNG"
+    ],
+    "answer": "인빅터스 게이밍",
+    "explanation": "인빅터스 게이밍이 2018 월즈 우승팀이야.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-005",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2019 월드 챔피언십 우승 팀은?",
+    "options": [
+      "펀플러스 피닉스",
+      "G2 e스포츠",
+      "인빅터스 게이밍",
+      "SKT T1"
+    ],
+    "answer": "펀플러스 피닉스",
+    "explanation": "펀플러스 피닉스가 2019 월즈 결승에서 G2를 이겼어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-006",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2021 월드 챔피언십 우승 팀은?",
+    "options": [
+      "EDward Gaming",
+      "담원 기아",
+      "T1",
+      "RNG"
+    ],
+    "answer": "EDward Gaming",
+    "explanation": "EDG가 2021 월즈에서 우승했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-007",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2017 월드 챔피언십 우승 팀은?",
+    "options": [
+      "삼성 갤럭시",
+      "SKT T1",
+      "롱주 게이밍",
+      "RNG"
+    ],
+    "answer": "삼성 갤럭시",
+    "explanation": "삼성 갤럭시가 2017 월즈 우승팀이야.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-008",
+    "category": "esports",
+    "difficulty": "easy",
+    "question": "2016 월드 챔피언십 우승 팀은?",
+    "options": [
+      "SKT T1",
+      "삼성 갤럭시",
+      "ROX 타이거즈",
+      "EDG"
+    ],
+    "answer": "SKT T1",
+    "explanation": "SKT T1이 2016 월즈 우승을 차지했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-009",
+    "category": "esports",
+    "difficulty": "easy",
+    "question": "2015 월드 챔피언십 우승 팀은?",
+    "options": [
+      "SKT T1",
+      "KOO 타이거즈",
+      "Fnatic",
+      "EDG"
+    ],
+    "answer": "SKT T1",
+    "explanation": "SKT T1이 2015 월즈 우승을 차지했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-010",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2014 월드 챔피언십 우승 팀은?",
+    "options": [
+      "삼성 화이트",
+      "스타 혼 로열클럽",
+      "삼성 블루",
+      "OMG"
+    ],
+    "answer": "삼성 화이트",
+    "explanation": "삼성 화이트가 2014 월즈 우승팀이야.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-011",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2013 월드 챔피언십 우승 팀은?",
+    "options": [
+      "SKT T1",
+      "로열 클럽",
+      "나진 블랙 소드",
+      "프나틱"
+    ],
+    "answer": "SKT T1",
+    "explanation": "SKT T1이 2013 월즈에서 우승했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-012",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2023 월드 챔피언십 결승 MVP 선수는?",
+    "options": [
+      "Zeus",
+      "Faker",
+      "Oner",
+      "Keria"
+    ],
+    "answer": "Zeus",
+    "explanation": "2023 월즈 결승 MVP는 Zeus였어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-013",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2022 월드 챔피언십 결승 MVP 선수는?",
+    "options": [
+      "Kingen",
+      "Deft",
+      "Zeka",
+      "Pyosik"
+    ],
+    "answer": "Kingen",
+    "explanation": "2022 월즈 결승 MVP는 Kingen이야.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-014",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2017 월드 챔피언십 결승 MVP 선수는?",
+    "options": [
+      "Ruler",
+      "Crown",
+      "Ambition",
+      "CoreJJ"
+    ],
+    "answer": "Ruler",
+    "explanation": "2017 월즈 결승 MVP는 Ruler였어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-015",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2016 월드 챔피언십 결승 MVP 선수는?",
+    "options": [
+      "Faker",
+      "Bengi",
+      "Bang",
+      "Wolf"
+    ],
+    "answer": "Faker",
+    "explanation": "2016 월즈 결승 MVP는 Faker야.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-016",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "월드 챔피언십 2011 초대 우승 팀은?",
+    "options": [
+      "Fnatic",
+      "SKT T1",
+      "TPA",
+      "Moscow Five"
+    ],
+    "answer": "Fnatic",
+    "explanation": "2011 시즌 1 월드 챔피언십은 Fnatic이 우승했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-017",
+    "category": "esports",
+    "difficulty": "hard",
+    "question": "2012 월드 챔피언십 우승 팀은?",
+    "options": [
+      "Taipei Assassins",
+      "Azubu Frost",
+      "Moscow Five",
+      "SKT T1"
+    ],
+    "answer": "Taipei Assassins",
+    "explanation": "2012 월즈는 Taipei Assassins가 우승했어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-018",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2018 월드 챔피언십 결승에서 인빅터스 게이밍의 상대는?",
+    "options": [
+      "Fnatic",
+      "G2 e스포츠",
+      "KT 롤스터",
+      "RNG"
+    ],
+    "answer": "Fnatic",
+    "explanation": "2018 월즈 결승은 IG와 Fnatic의 대결이었어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-019",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2020 월드 챔피언십 결승에서 담원 게이밍의 상대는?",
+    "options": [
+      "쑤닝",
+      "G2 e스포츠",
+      "TES",
+      "징동 게이밍"
+    ],
+    "answer": "쑤닝",
+    "explanation": "2020 월즈 결승에서 담원은 쑤닝을 꺾었어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  },
+  {
+    "id": "esports-020",
+    "category": "esports",
+    "difficulty": "normal",
+    "question": "2021 월드 챔피언십 결승에서 EDG의 상대는?",
+    "options": [
+      "담원 기아",
+      "T1",
+      "젠지",
+      "RNG"
+    ],
+    "answer": "담원 기아",
+    "explanation": "2021 월즈 결승은 EDG와 담원 기아의 대결이었어.",
+    "source": "https://lolesports.com/",
+    "patch": null
+  }
+]
